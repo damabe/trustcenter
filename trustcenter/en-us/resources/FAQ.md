@@ -123,7 +123,7 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>Does 21Vianet have access to the Azure, Office 365 and Power BI services that Microsoft operates globally outside China?</label>
                     <div class="content-faq-footer">
-                        <p>No. Microsoft Azure, Office 365 and Power BI operated by 21Vianet in China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in China.</p>
+                        <p>No. Microsoft Azure, Office 365 and Power BI operated by 21Vianet in China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside China. For clarity, the data center in Hong Kong SAR is part of the global services operated by Microsoft, not the 21Vianet services operated in China.</p>
                     </div>
                 </div>
                 <div class="content-faq">
@@ -147,7 +147,7 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>Is 21Vianet transparent with the way it uses and accesses our Customer Data?</label>
                         <div class="content-faq-footer">
-                        <p>We host your Customer Data in datacenter(s) located in the People's Republic of China, excluding Hong Kong, Taiwan, and Macau. The services also share other important aspects of data storage, such as who can access your Customer Data, and what we do with that information internally. 21Vianet’s position on access to your Customer Data is:</p>
+                        <p>We host your Customer Data in datacenter(s) located in the People's Republic of China, excluding Hong Kong SAR, Taiwan, and Macao SAR. The services also share other important aspects of data storage, such as who can access your Customer Data, and what we do with that information internally. 21Vianet’s position on access to your Customer Data is:</p>
                         <ul>
                             <li>The services give you access to your Customer Data.</li>
                             <li>Access to Customer Data is strictly controlled and logged, and sample audits are performed by us to attest that access is only for appropriate business purposes.</li>
